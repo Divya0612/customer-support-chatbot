@@ -1,0 +1,27 @@
+# Environment
+.env
+
+# Runtime state (auto-generated)
+orders.json
+chat_history.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Virtual environment
+venv/
+env/
+.venv/
+genai-env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
